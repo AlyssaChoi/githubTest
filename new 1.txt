@@ -1,2 +1,0 @@
-Dell XPS 13 9350 1.7.0 BIOS
-Hello World!
